@@ -1,4 +1,4 @@
-# NammaYatri_Ride_hailing_app_Data_Analysis
+# Namma Yatri Ride-hailing app Data Analysis
 
 **Objective:** The dataset contains ride data for Bengaluru for a single day. The goal is to discover relevant insights from the ride-hailing app Namma Yatri.
 
